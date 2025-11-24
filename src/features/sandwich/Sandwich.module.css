@@ -1,0 +1,18 @@
+.title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.image {
+  width: 350px;
+}
+
+button {
+  margin-left: 8px;
+  background-color: goldenrod;
+}
+
+button:hover {
+  background-color: rgb(192, 146, 29);
+  color: white;
+}
